@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @inmarte
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mars
+- 👀 I’m interested in the website
+- 🌱 I’m currently learning to program
+- 💞️ I’m looking to collaborate on new works
+- 📫 How to reach me martinam.campos@gmail.com
 
 <!---
 inmarte/inmarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
